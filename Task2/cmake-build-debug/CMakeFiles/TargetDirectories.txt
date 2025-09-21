@@ -1,0 +1,3 @@
+/Users/alphi/Desktop/Task2/cmake-build-debug/CMakeFiles/Task2.dir
+/Users/alphi/Desktop/Task2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alphi/Desktop/Task2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
